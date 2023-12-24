@@ -34,7 +34,7 @@ Install Composer by following the [installation guide](https://getcomposer.org/d
 
 1. Open your web browser and navigate to http://localhost:8000 to access the Laravel application.
 
-## Viewing Combined Data, GitHub Data, and Recent Commits:
+## Viewing Data
 
 - To view the data, visit: [http://localhost/backend_challenge/public/api/progress/history](http://localhost/backend_challenge/public/api/progress/history).
 
